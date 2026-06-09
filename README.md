@@ -1,14 +1,8 @@
-# 📊 Advanced Customer Analytics with SQL
-📖 Project Overview
+# 📊 Advanced Customer Lifecycle Analytics with SQL
+## 📖 Project Overview
 
-This project explores customer purchasing behavior using SQL through a series of analytical queries focused on:
+This project applies advanced SQL analytics techniques to understand customer behavior, revenue generation, retention, and lifetime value.
 
-  * 🎯 Customer Lifetime Value (LTV)
+Using transactional retail data, the analysis explores how customers contribute revenue over time, how they can be segmented based on value, and how retention and churn vary across acquisition cohorts.
 
-  * 👥 Customer Segmentation
-
-  * 📈 Cohort Analysis
-
-  * 💰 Revenue Analysis
-
-  * 🔄 Customer Retention & Churn Analysis
+The project demonstrates practical applications of SQL for customer analytics and business intelligence.
