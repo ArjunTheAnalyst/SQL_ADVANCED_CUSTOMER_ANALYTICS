@@ -68,7 +68,8 @@ The view includes:
  * Cohort assignment
 
 #### 🎯 Business Objective
-Create a centralized analytical dataset for customer lifecycle analysis.
+Create a centralized analytical dataset for customer lifecycle analysis.<br>
+[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_ADVANCED_CUSTOMER_ANALYTICS/blob/main/00_create_view.sql)
 
 ### 1️⃣ Customer Lifetime Value (LTV) & Segmentation Analysis
 Calculated customer lifetime value and segmented customers using percentile-based thresholds.
@@ -85,7 +86,8 @@ Calculated customer lifetime value and segmented customers using percentile-base
  * Average Customer LTV
 
 #### 🎯 Business Value
-Identify high-value customers and understand how revenue is distributed across customer segments.
+Identify high-value customers and understand how revenue is distributed across customer segments.<br>
+[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_ADVANCED_CUSTOMER_ANALYTICS/blob/main/01_customer_segmentation.sql)
 
 ### 2️⃣ Cohort Revenue Analysis
 Evaluated customer acquisition cohorts to understand revenue generation patterns over time.
@@ -100,6 +102,7 @@ Evaluated customer acquisition cohorts to understand revenue generation patterns
 
 #### 🎯 Business Value
 Measure customer monetization patterns and compare the long-term performance of acquisition cohorts.
+[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_ADVANCED_CUSTOMER_ANALYTICS/blob/main/02_cohort_analysis.sql)
 
 ### 3️⃣ Customer Retention & Churn Analysis
 Classified customers based on purchasing activity and measured retention performance across cohorts.
@@ -112,6 +115,7 @@ Classified customers based on purchasing activity and measured retention perform
 
 #### 🎯 Business Objective
 Understand customer retention trends and identify long-term attrition patterns across acquisition cohorts.
+[VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_ADVANCED_CUSTOMER_ANALYTICS/blob/main/03_retention_analysis.sql)
 
 ## ❓ Key Business Questions Answered
 ### 💰 Customer Value
