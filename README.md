@@ -80,3 +80,47 @@ The dataset includes:
   * Retention Analysis
 Running Totals
 Percentile-Based Classification
+
+# 📋 Analysis Performed
+## 0️⃣ Customer Analytics View Creation
+
+A reusable analytical view was created to serve as the foundation for all subsequent analyses.
+
+The view includes:
+ * Customer information
+
+ * Customer demographics
+
+ * Daily customer revenue
+
+ * Daily order counts
+
+ * First purchase date
+
+ * Cohort assignment
+
+###🎯 Objective
+
+Create a centralized analytical dataset for customer lifecycle analysis.
+
+## 1️⃣ Customer Lifetime Value (LTV) Segmentation
+
+Customers are segmented using percentile thresholds based on their lifetime revenue contribution.
+
+### Customer Segments
+🟢 Low Value   : Bottom 25%<br>
+🟡 Mid Value   : 	25th–75th Percentile<br>
+🔴 High Value  : 	Top 25%
+
+### Metrics Analyzed
+ * Segment LTV
+
+ * Revenue Contribution Percentage
+
+ * Customer Count
+
+ * Average Customer LTV
+
+### 🎯 Business Value
+
+Identify high-value customers and understand how revenue is distributed across customer segments.
