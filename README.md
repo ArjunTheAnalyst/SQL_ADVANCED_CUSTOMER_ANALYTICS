@@ -101,7 +101,7 @@ Evaluated customer acquisition cohorts to understand revenue generation patterns
  * Cumulative Revenue Contribution
 
 #### 🎯 Business Value
-Measure customer monetization patterns and compare the long-term performance of acquisition cohorts.
+Measure customer monetization patterns and compare the long-term performance of acquisition cohorts.<br>
 [VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_ADVANCED_CUSTOMER_ANALYTICS/blob/main/02_cohort_analysis.sql)
 
 ### 3️⃣ Customer Retention & Churn Analysis
@@ -114,7 +114,7 @@ Classified customers based on purchasing activity and measured retention perform
  * Cohort Churn Percentage
 
 #### 🎯 Business Objective
-Understand customer retention trends and identify long-term attrition patterns across acquisition cohorts.
+Understand customer retention trends and identify long-term attrition patterns across acquisition cohorts.<br>
 [VIEW QUERY HERE](https://github.com/ArjunTheAnalyst/SQL_ADVANCED_CUSTOMER_ANALYTICS/blob/main/03_retention_analysis.sql)
 
 ## ❓ Key Business Questions Answered
