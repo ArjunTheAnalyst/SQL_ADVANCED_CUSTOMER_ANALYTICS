@@ -6,3 +6,20 @@ This project applies advanced SQL analytics techniques to understand customer be
 Using transactional retail data, the analysis explores how customers contribute revenue over time, how they can be segmented based on value, and how retention and churn vary across acquisition cohorts.
 
 The project demonstrates practical applications of SQL for customer analytics and business intelligence.
+
+## 📄 Data Source Information
+
+This project uses the **Contoso V2 100K** retail dataset, containing transactional sales and customer data spanning **2015–2024**.
+
+The dataset includes:
+  * 🛒 Sales transactions and order history
+
+  * 👥 Customer information and demographics
+
+  * 💰 Revenue and pricing data
+
+  * 🌍 Geographic attributes
+
+  * 📅 Purchase dates and customer activity timelines
+
+> Note: The dataset is not included in this repository. The project focuses on demonstrating analytical techniques and business problem-solving using SQL.
