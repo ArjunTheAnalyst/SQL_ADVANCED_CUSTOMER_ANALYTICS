@@ -23,3 +23,60 @@ The dataset includes:
   * 📅 Purchase dates and customer activity timelines
 
 > Note: The dataset is not included in this repository. The project focuses on demonstrating analytical techniques and business problem-solving using SQL.
+
+## 🛠️ SQL Concepts Demonstrated
+### 🔹 Data Query Language (DQL)
+
+  * SELECT
+
+  * DISTINCT
+
+  * WHERE
+
+  * ORDER BY
+
+  * GROUP BY
+
+  * HAVING
+
+### 🔹 Joins
+
+  * INNER JOIN
+
+### 🔹 Common Table Expressions (CTEs)
+
+  * Multi-step analytical transformations
+
+  * Query modularization
+
+  * Query readability and maintainability
+
+  * 🔹 Window Functions
+
+  * ROW_NUMBER()
+
+  * SUM() OVER()
+
+  * COUNT() OVER()
+
+  * AVG() OVER()
+
+  * MIN() OVER()
+
+  * PERCENTILE_CONT()
+
+### 🔹 Analytical Techniques
+
+  * Cohort Analysis
+
+  * Customer Segmentation
+
+  * Lifetime Value (LTV) Analysis
+
+  * Revenue Distribution Analysis
+
+  * Churn Analysis
+
+  * Retention Analysis
+Running Totals
+Percentile-Based Classification
