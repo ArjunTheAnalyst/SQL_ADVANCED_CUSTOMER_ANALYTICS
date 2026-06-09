@@ -51,7 +51,7 @@ The dataset includes:
 
   * Query readability and maintainability
 
-  * 🔹 Window Functions
+### 🔹 Window Functions
 
   * ROW_NUMBER()
 
