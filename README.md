@@ -99,7 +99,7 @@ The view includes:
 
  * Cohort assignment
 
-###🎯 Objective
+### 🎯 Objective
 
 Create a centralized analytical dataset for customer lifecycle analysis.
 
