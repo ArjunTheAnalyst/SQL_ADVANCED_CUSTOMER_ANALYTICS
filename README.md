@@ -81,8 +81,8 @@ The dataset includes:
 Running Totals
 Percentile-Based Classification
 
-# 📋 Analysis Performed
-## 0️⃣ Customer Analytics View Creation
+## 📋 Analysis Performed
+### 0️⃣ Customer Analytics View Creation
 
 Created a reusable analytical view that serves as the foundation for all subsequent analyses.
 
@@ -99,20 +99,20 @@ The view includes:
 
  * Cohort assignment
 
-### 🎯 Business Objective
+#### 🎯 Business Objective
 
 Create a centralized analytical dataset for customer lifecycle analysis.
 
-## 1️⃣ Customer Lifetime Value (LTV) & Segmentation Analysis
+### 1️⃣ Customer Lifetime Value (LTV) & Segmentation Analysis
 
 Calculated customer lifetime value and segmented customers using percentile-based thresholds.
 
-### Customer Segments
+#### Customer Segments
 🟢 Low Value   : Bottom 25%<br>
 🟡 Mid Value   : 	25th–75th Percentile<br>
 🔴 High Value  : 	Top 25%
 
-### Metrics Analyzed
+#### Metrics Analyzed
  * Customer Lifetime Value (LTV)
 
  * Revenue Contribution by Segment
@@ -121,15 +121,15 @@ Calculated customer lifetime value and segmented customers using percentile-base
 
  * Average Customer LTV
 
-### 🎯 Business Value
+#### 🎯 Business Value
 
 Identify high-value customers and understand how revenue is distributed across customer segments.
 
-## 2️⃣ Cohort Revenue Analysis
+### 2️⃣ Cohort Revenue Analysis
 
 Evaluated customer acquisition cohorts to understand revenue generation patterns over time.
 
-### Metrics Analyzed
+#### Metrics Analyzed
  * Cohort Revenue
 
  * Customer Count
@@ -142,20 +142,81 @@ Evaluated customer acquisition cohorts to understand revenue generation patterns
 
  * Cumulative Revenue Contribution
 
-### 🎯 Business Value
+#### 🎯 Business Value
 
 Measure customer monetization patterns and compare the long-term performance of acquisition cohorts.
 
-## 3️⃣ Customer Retention & Churn Analysis
+### 3️⃣ Customer Retention & Churn Analysis
 
 Classified customers based on purchasing activity and measured retention performance across cohorts.
 
-### Metrics Analyzed
+#### Metrics Analyzed
  * Active Customers
  * Churned Customers
  * Cohort Retention Distribution
  * Cohort Churn Percentage
 
-### 🎯 Business Objective
+#### 🎯 Business Objective
 
 Understand customer retention trends and identify long-term attrition patterns across acquisition cohorts.
+
+## ❓ Key Business Questions Answered
+### 💰 Customer Value
+
+ * Which customers generate the highest lifetime value?
+
+ * How concentrated is revenue among customer segments?
+
+### 📈 Cohort Performance
+
+ * Which customer cohorts generate the most revenue?
+
+ * How does customer value vary across acquisition years?
+
+### 📊 Revenue Analysis
+
+ * How quickly do customers generate revenue after acquisition?
+
+ * What percentage of total revenue is generated throughout the customer lifecycle?
+
+### 🔄 Retention & Churn
+
+ * What proportion of customers become inactive?
+
+ * Which cohorts demonstrate the strongest retention performance?
+
+## 🚀 Skills Demonstrated
+ * ✅ Advanced SQL
+ * ✅ Customer Analytics
+ * ✅ Customer Lifetime Value (LTV) Analysis
+ * ✅ Customer Segmentation
+ * ✅ Cohort Analysis
+ * ✅ Revenue Analytics
+ * ✅ Retention Analysis
+ * ✅ Churn Analysis
+ * ✅ Window Functions
+ * ✅ Common Table Expressions (CTEs)
+ * ✅ Business Intelligence
+ * ✅ Analytical Problem Solving
+
+## 🎯 Learning Outcomes
+
+This project demonstrates how SQL can be used to solve real-world customer analytics problems by transforming transactional data into meaningful business insights.
+
+Key learnings include:
+
+ * Measuring customer lifetime value
+
+ * Segmenting customers based on revenue contribution
+
+ * Evaluating cohort performance
+
+ * Analyzing customer retention and churn
+
+ * Understanding customer monetization patterns
+
+ * Applying advanced SQL techniques for business analysis
+
+## ⭐ Conclusion
+
+The goal of this project is to showcase practical SQL skills through customer-focused business analytics, demonstrating how structured querying techniques can be used to support data-driven decision-making.
