@@ -84,7 +84,7 @@ Percentile-Based Classification
 # 📋 Analysis Performed
 ## 0️⃣ Customer Analytics View Creation
 
-A reusable analytical view was created to serve as the foundation for all subsequent analyses.
+Created a reusable analytical view that serves as the foundation for all subsequent analyses.
 
 The view includes:
  * Customer information
@@ -99,13 +99,13 @@ The view includes:
 
  * Cohort assignment
 
-### 🎯 Objective
+### 🎯 Business Objective
 
 Create a centralized analytical dataset for customer lifecycle analysis.
 
-## 1️⃣ Customer Lifetime Value (LTV) Segmentation
+## 1️⃣ Customer Lifetime Value (LTV) & Segmentation Analysis
 
-Customers are segmented using percentile thresholds based on their lifetime revenue contribution.
+Calculated customer lifetime value and segmented customers using percentile-based thresholds.
 
 ### Customer Segments
 🟢 Low Value   : Bottom 25%<br>
@@ -113,14 +113,49 @@ Customers are segmented using percentile thresholds based on their lifetime reve
 🔴 High Value  : 	Top 25%
 
 ### Metrics Analyzed
- * Segment LTV
+ * Customer Lifetime Value (LTV)
 
- * Revenue Contribution Percentage
+ * Revenue Contribution by Segment
 
- * Customer Count
+ * Customer Distribution by Segment
 
  * Average Customer LTV
 
 ### 🎯 Business Value
 
 Identify high-value customers and understand how revenue is distributed across customer segments.
+
+## 2️⃣ Cohort Revenue Analysis
+
+Evaluated customer acquisition cohorts to understand revenue generation patterns over time.
+
+### Metrics Analyzed
+ * Cohort Revenue
+
+ * Customer Count
+
+ * Average Revenue Per Customer
+
+ * First-Purchase Revenue
+
+ * Revenue by Customer Age
+
+ * Cumulative Revenue Contribution
+
+### 🎯 Business Value
+
+Measure customer monetization patterns and compare the long-term performance of acquisition cohorts.
+
+## 3️⃣ Customer Retention & Churn Analysis
+
+Classified customers based on purchasing activity and measured retention performance across cohorts.
+
+### Metrics Analyzed
+ * Active Customers
+ * Churned Customers
+ * Cohort Retention Distribution
+ * Cohort Churn Percentage
+
+### 🎯 Business Objective
+
+Understand customer retention trends and identify long-term attrition patterns across acquisition cohorts.
